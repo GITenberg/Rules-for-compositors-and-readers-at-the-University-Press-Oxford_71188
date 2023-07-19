@@ -1,0 +1,38 @@
+_repo: Rules-for-compositors-and-readers-at-the-University-Press-Oxford_71188
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Bradley, Henry
+    birthdate: 1845
+    deathdate: 1923
+    gutenberg_agent_id: '33768'
+    url: http://www.gutenberg.org/2009/agents/33768
+  - agent_name: Murray, James A. H.
+    gutenberg_agent_id: '56110'
+    url: http://www.gutenberg.org/2009/agents/56110
+creator:
+  author:
+    agent_name: Hart, Horace
+    gutenberg_agent_id: '56109'
+    url: http://www.gutenberg.org/2009/agents/56109
+description: ''
+gutenberg_issued: '2023-07-14'
+identifiers:
+  gutenberg: '71188'
+language: en
+pgterms:marc904: https://archive.org/details/rulesforcomposit00oxforich
+pgterms:marc905: 20210323201053hart
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: Richard Tonsing, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHenry Frowde, $c1893, copyright 1894, copyright
+  1895, copyright 1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rules for compositors and readers at the University Press, Oxford
+url: http://www.gutenberg.org/ebooks/71188
