@@ -10,12 +10,17 @@ contributor:
   - agent_name: Murray, James A. H.
     gutenberg_agent_id: '56110'
     url: http://www.gutenberg.org/2009/agents/56110
+covers:
+- cover_type: archival
+  image_path: 71188-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Hart, Horace
     gutenberg_agent_id: '56109'
     url: http://www.gutenberg.org/2009/agents/56109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71188#Rules-for-compositors-and-readers-at-the-University-Press-Oxford
 gutenberg_issued: '2023-07-14'
 identifiers:
   gutenberg: '71188'
